@@ -2,6 +2,7 @@
 - 👋 Hi, I’m @MokanRaamELANGOVAN
 - 👀 I’m interested in Data Science
 - 👀 Interested in New Tech's and Web tools
+- -currently learning Web networking and git version control
 - 📫 How to reach me mokanraame25@gmail.com
 
 <!---
