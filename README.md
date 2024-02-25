@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @MokanRaamELANGOVAN
 - 👀 I’m interested in Data Structure and Algorithms and lead in problem solving
 - 👀 Interested in New Tech's and Web tools
-- -currently learning Web networking and git version control
+- -currently learning Web networking
 - 📫 How to reach me mokanraame25@gmail.com
 
 <!---
