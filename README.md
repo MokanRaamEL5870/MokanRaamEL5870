@@ -1,8 +1,6 @@
 
 - 👋 Hi, I’m @MOKAN_RAAM_ELANGOVAN
-- 👀 I’m interested in Data Structure and Algorithms and lead in problem solving
-- 👀 Interested in New Tech's and Web tools and python
-- -currently learning Web networking
+- 👀 I’m interested in Data Structure and Algorithms and problem solving.
 - 📫 How to reach me mokanraame25@gmail.com
 
 <!---
